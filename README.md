@@ -3,14 +3,12 @@ Türkçe'de bulunan yabancı sözcüklerin azaltılması çalışmasına destek 
 # Kurulum
 Aşağıdaki bağlantılardan istediğiniz sürümü indirip deneyebilirsiniz;
 
-Alt-H2
-------
+### Windows
 
 [Windows Kurulum](dist/turetmen-1.0-windows.exe)
 
 [Windows sıkıştırılmış](dist/turetmen-1.0-windows.tar.gz)
 
-Alt-H2
-------
+### Linux
 
 [Linux](dist/turetmen-1.0-linux.AppImage)
